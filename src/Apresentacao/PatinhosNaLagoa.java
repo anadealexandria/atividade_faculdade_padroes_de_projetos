@@ -30,6 +30,7 @@ public class PatinhosNaLagoa {
 		
 		System.out.println("Boa tarde!!");
 		System.out.println("Bom dia!");
+		System.out.println("Boa noite!");
 		
 	}
 
