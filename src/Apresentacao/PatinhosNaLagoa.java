@@ -29,6 +29,7 @@ public class PatinhosNaLagoa {
 		patinho3.exibe();
 		
 		System.out.println("Boa tarde!!");
+		System.out.println("Bom dia!");
 		
 	}
 
